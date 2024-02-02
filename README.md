@@ -23,6 +23,8 @@ Raspberry Pi Camera Module: Captured high-quality surveillance videos in real-ti
 GPIO (General Purpose Input/Output): Used for motion detection through a connected sensor.
 SMTP (Simple Mail Transfer Protocol): Employed for sending security alert emails.
 Python Programming Language: Developed the system using Python for GPIO control, camera operation, and email handling.
+PI Sensor
+PI Camera
 MP4Box: Utilized for converting and processing H.264 video files into MP4 format.
 
 *Setup:*
