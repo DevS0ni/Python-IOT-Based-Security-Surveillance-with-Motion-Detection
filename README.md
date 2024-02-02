@@ -6,7 +6,9 @@ The system detects motion and captures a surveillance video when motion is detec
 alert email with the attached video file to the user.
 
 *TechStack Used:*
-Python
+Python3
+
+<img width="1003" alt="Screen Shot 2024-02-02 at 1 18 15 PM" src="https://github.com/DevS0ni/Python-IOT-Based-Security-Surveillance-with-Motion-Detection/assets/88739819/ea6f412c-e5b0-44e7-9281-aa8bb897fc08">
 
 *Key Features:*
 Motion Detection: Implemented motion detection using a GPIO pin on the Raspberry Pi, allowing the system to identify and respond to movement in the monitored space.
