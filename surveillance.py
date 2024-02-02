@@ -27,7 +27,7 @@ Security System
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 SENDER_USERNAME = 'soni.devk19@gmail.com'
-SENDER_PASSWORD = '************' # Hide Intentionally!
+SENDER_PASSWORD = '************' # Hid Intentionally! (Replace the '*' with the actual Passcode)
 RECEIVER_EMAIL = 'onedf3112@gmail.com'
 
 # *********************************************** Video filename and path *************************************************
